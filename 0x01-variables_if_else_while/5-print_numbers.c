@@ -1,6 +1,6 @@
 /*
  * File: 5-print_numbers.c
- * Auth: Brennan D Baraban
+ * Auth: Habeeblahi A Ajuwon
  */
 
 #include <stdio.h>
@@ -21,4 +21,3 @@ int main(void)
 
 	return (0);
 }
-Footer
